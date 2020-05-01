@@ -1,3 +1,18 @@
+body {
+	background: lightsalmon;
+}
+
+
 p {
-	color:lime;
+	color:rgb(194, 6, 53);
+	font-size:30px;	
+}
+
+h1 {
+	color:darkblue;
+	font-size:50px;
+}
+
+.blue {
+	background:rgba(86, 113, 163, 0.74);
 }
